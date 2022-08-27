@@ -1,0 +1,15 @@
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\bin\Debug\net6.0\MVCCountries.exe
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\bin\Debug\net6.0\MVCCountries.deps.json
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\bin\Debug\net6.0\MVCCountries.runtimeconfig.json
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\bin\Debug\net6.0\MVCCountries.dll
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\bin\Debug\net6.0\MVCCountries.pdb
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\MVCCountries.csproj.AssemblyReference.cache
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\MVCCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\MVCCountries.AssemblyInfoInputs.cache
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\MVCCountries.AssemblyInfo.cs
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\MVCCountries.csproj.CoreCompileInputs.cache
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\MVCCountries.dll
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\refint\MVCCountries.dll
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\MVCCountries.pdb
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\MVCCountries.genruntimeconfig.cache
+C:\Users\12489\Repository2\GCTesting\DishesMVC\MVCCountries\MVCCountries\obj\Debug\net6.0\ref\MVCCountries.dll
